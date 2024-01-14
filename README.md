@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./apfp.png "Optional title")
+![Alt text](./apfp.jpg "Optional title")
